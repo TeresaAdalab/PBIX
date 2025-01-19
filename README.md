@@ -24,6 +24,14 @@ Diseñar un dashboard interactivo: con una visión general, asi como análisis d
 - **Totales de compras por producto**
 - **Totales por campañas**
 
+## 🧰 Herramientas Utilizadas
+- **Power Bi**
+- **Dax Studio**
+  
+## 📊 Lenguaje de programacion
+- **M**
+- **Dax**
+  
 ## 📋 Los Datos
 El conjunto de datos proviene de una fuente abierta en Kaggle y contiene información sobre 5 campañas de marketing, incluyendo las plataformas utilizadas y el número de ventas generadas a través de cada plataforma. 
 `https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign?resource=download`
